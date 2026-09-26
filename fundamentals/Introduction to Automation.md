@@ -14,23 +14,21 @@ DATA DRIVEN DECISIONS:
 
 ##### Core Concepts of Automation:
 
-###### 1. Trigger - Starts an Automation
+##### 1. Trigger - Starts an Automation
 
 Types :
 1. Manual
 2. Scheduled - Eg. Once a month 
 3. Applications -Eg. Webhook
 
-###### 2. Filtering
+##### 2. Filtering
 Used to allow or block certain types of data from following a path based on certain conditions
-
 ##### 3. Actions:
 Allows to interact with applications.
 ![[Pasted image 20260926163011.png]]
 
 ##### Workflow
-
-![[Pasted image 20260926163132.png|548]]
+![[Pasted image 20260926163132.png]]
 
 ##### Automation Best Practices :
 
