@@ -26,7 +26,7 @@ Used to allow or block certain types of data from following a path based on cert
 ##### 3. Actions:
 Allows to interact with applications.
 
-![Automation](../assets%2FPasted%20image%2020260926163132.png)
+![Automation](../assets%2FPasted%20image%2020260926163011.png)
 
 ##### Workflow
 ![Automation](../assets%2FPasted%20image%2020260926163132.png)
