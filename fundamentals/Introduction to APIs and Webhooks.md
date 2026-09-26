@@ -21,7 +21,7 @@ There are 4 component to an HTTP request:
 
 	Unique location for a resource on the web (page,img,pdf etc...)
 
-![Automation](../assets/Pasted%20image%2020260927001159.png.png)
+![Automation](../assets/Pasted%20image%2020260927001159.png)
 
 ##### 2. Method
 
